@@ -6,10 +6,6 @@
 * Meetups
 * Projects 
 
-### Team Names
-
-* letmeforkyourrepository
-
 ### Notes to self/Things we learned
 
 
